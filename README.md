@@ -7,7 +7,8 @@ I'm a web developer with over 10 years of experience, specializing in creating m
 - Vue.js / Nuxt.js
 - Node.js
 - HTML5, CSS (Sass)
-- PHP (Laravel)
+- PHP
+- Laravel
 - SQL (MySQL, PostgreSQL)
 - REST API
 - Git
@@ -36,6 +37,6 @@ Feel free to explore these repositories for in-depth code examples and insights 
 
 - 📧 Email: mitty.boro@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/mittyboro](https://www.linkedin.com/in/mittyboro)
-- Telegram: [t.me/mittyboro](https://t.me/mittyboro)
+- 📱 Telegram: [t.me/mittyboro](https://t.me/mittyboro)
 
 Feel free to reach out to discuss collaboration opportunities or just to chat about web development technologies.
