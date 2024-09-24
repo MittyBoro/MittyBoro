@@ -36,5 +36,6 @@ Feel free to explore these repositories for in-depth code examples and insights 
 
 - 📧 Email: mitty.boro@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/mittyboro](https://www.linkedin.com/in/mittyboro)
+- Telegram: [t.me/mittyboro](https://t.me/mittyboro)
 
 Feel free to reach out to discuss collaboration opportunities or just to chat about web development technologies.
